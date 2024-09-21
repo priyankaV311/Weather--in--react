@@ -1,0 +1,16 @@
+.search {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
